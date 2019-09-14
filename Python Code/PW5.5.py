@@ -1,0 +1,1 @@
+print('This is a single quotation (\') mark and this is a double quotation (\") mark.')
