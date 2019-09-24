@@ -1,5 +1,5 @@
 # CodePractice
-I have written these code samples on my own while learning each respective language. While I feel most comfortable with Java and Python, I have some familiarity with JavaScript as well. 
+I have written these code samples on my own while learning each respective language. While I have spent the most time with Java and Python, I have some experience writing JavaScript as well. 
 
 Each small program can be found in the directory labeled according to programming language. 
 
