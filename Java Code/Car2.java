@@ -1,4 +1,4 @@
-class Car2 extends Thread {
+class Program extends Thread {
     public void run() {
         System.out.println("vroom vroom!");
     }
@@ -12,10 +12,10 @@ class Truck extends Thread {
 
 
 
-public class Program
+public class Car2
 {
 	public static void main(String[] args) {
-	    Car2 c = new Car2();
+	    Program c = new Program();
 	    c.start();
 	    Truck t = new Truck();
 	    t.start();
