@@ -1,16 +1,3 @@
-class MyClass{
-    static int adding(int x, int y){
-        return x + y;
-  }
-}
-
-class NumbersToAdd{
-    static int numFive(int a){
-        int fiver = a;//This is not used.
-        return fiver;//Strangely enough, this is not used either.
-    }
-}
-
 class ThreeClasses{
       public static void main(String[] args){
           int z = MyClass.adding(12, 5);//These numbers are added together because of MyClass.
