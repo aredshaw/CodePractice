@@ -1,3 +1,6 @@
+# Creating a student class and subclasses for particular areas of study. Then
+# create specific objects (students), and give specific info on them.
+
 class Student:
     def __init__(self, pName, pId, pCourse_enrolled, pAnnual_fees):
         self.name = pName
