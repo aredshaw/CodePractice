@@ -1,4 +1,6 @@
 # CodePractice
+[Java](https://github.com/aredshaw/CodePractice/tree/master/JavaCode) | [Python](https://github.com/aredshaw/CodePractice/tree/master/PythonCode) | [JavaScript](https://github.com/aredshaw/CodePractice/tree/master/JavaScriptCode)
+
 I have written these code samples on my own while learning each respective language. While I have spent the most time with Java and Python, I have some experience writing JavaScript as well. 
 
 Each small program can be found in the directory labeled according to programming language. 
